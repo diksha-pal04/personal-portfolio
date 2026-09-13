@@ -1355,14 +1355,14 @@ body.light-mode .section-title span {
     color: #6c5ce7;
 }
 
-/* Slightly blur the fraud dashboard image */
+/* Slightly blurring the fraud dashboard image */
 .fraud-dashboard-image {
     filter: blur(1.5px);
     transform: scale(1.02);
     transition: 0.3s ease;
 }
 
-/* Make it clear when recruiter hovers */
+/* Making it clear when hovers */
 .project-card:hover .fraud-dashboard-image {
     filter: blur(0);
     transform: scale(1.06);
@@ -1377,4 +1377,145 @@ body.light-mode .section-title span {
 
 .project-card {
     width: 350px;
+}
+
+/* ---------- NAVBAR LOGO ---------- */
+
+body.light-mode .logo {
+    color: #111827;
+}
+
+body.light-mode .logo span {
+    color: var(--primary);
+}
+
+
+/* ---------- NAVBAR LINKS ---------- */
+
+body.light-mode .nav-link {
+    color: #4b5563;
+}
+
+body.light-mode .nav-link:hover,
+body.light-mode .nav-link.active {
+    color: #111827;
+}
+
+
+/* ---------- THEME / MENU BUTTON ---------- */
+
+body.light-mode .nav-buttons button {
+    color: #111827;
+}
+
+
+/* ---------- PROFILE CARD ---------- */
+
+
+body.light-mode .profile-card {
+    background: rgba(16, 23, 42, 0.95);
+}
+
+
+/* Profile name */
+
+body.light-mode .profile-card h3 {
+    color: #ffffff;
+}
+
+
+/* BCA Graduate */
+
+body.light-mode .profile-card p {
+    color: #00c8ff;
+    font-weight: 600;
+}
+
+
+/* Profile tags */
+
+body.light-mode .profile-tags span {
+    color: #d8d2ff;
+    background: rgba(124, 92, 255, 0.18);
+}
+
+
+/* ================= NAVBAR ================= */
+
+body.light-mode .navbar {
+    background: rgba(255, 255, 255, 0.92);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+
+/* Navbar name */
+
+body.light-mode .logo {
+    color: #17233f;
+}
+
+
+/* Purple dot */
+
+body.light-mode .logo span {
+    color: #6c5ce7;
+}
+
+
+/* Navbar links */
+
+body.light-mode .nav-link {
+    color: #46536b;
+}
+
+
+/* Navbar links when hovered or active */
+
+body.light-mode .nav-link:hover,
+body.light-mode .nav-link.active {
+    color: #17233f;
+}
+
+
+/* Theme button */
+
+body.light-mode .nav-buttons button {
+    color: #17233f;
+}
+
+
+/* ================= PROFILE CARD ================= */
+
+
+
+body.light-mode .profile-card {
+    background: #10172a;
+}
+
+
+/* name inside the card */
+
+body.light-mode .profile-card h3 {
+    color: #ffffff;
+}
+
+
+/* BCA Graduate */
+
+body.light-mode .profile-card p {
+    color: #00c8ff;
+    font-weight: 600;
+}
+
+
+/* Profile tags */
+
+body.light-mode .profile-card .tag,
+body.light-mode .profile-card span {
+    color: #dcd6ff;
+}
+
+body.light-mode .nav-link:hover,
+body.light-mode .nav-link.active {
+    color: #111827;
 }
