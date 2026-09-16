@@ -2,7 +2,7 @@ Diksha Pal | Personal Portfolio
 
 A responsive personal portfolio website built with HTML, CSS, and JavaScript to showcase my projects, skills, certifications, and career profile.
 
-🔗 Live Site: diksha-pal04.github.io/personal-portfolio
+🔗 Live Site: https://diksha-pal04.github.io/personal-portfolio/
 
 👩‍💻 About
 
