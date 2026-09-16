@@ -18,32 +18,32 @@ Certifications section with links to verified credentials
 Direct contact links (Email, LinkedIn, GitHub)
 
 🛠️ Built With
-HTML5
-CSS3
+HTML5,
+CSS3,
 JavaScript
 
 📂 Sections
-Section	Description
-Home	Introduction and quick links to resume/socials
-About	Background, practical experience, and career goals
-Skills	Programming, Web Development, Database, Data & Analytics, Backend, Tools & Platforms
-Projects	Featured projects with tech stack and links
-Certifications	Azure, IBM AI Fundamentals, Deloitte Data Analytics Job Simulation
+Section	Description,
+Home	Introduction and quick links to resume/socials,
+About	Background, practical experience, and career goals,
+Skills	Programming, Web Development, Database, Data & Analytics, Backend, Tools & Platforms,
+Projects	Featured projects with tech stack and links,
+Certifications	Azure, IBM AI Fundamentals, Deloitte Data Analytics Job Simulation,
 Contact	Email, LinkedIn, and GitHub
 
 🚀 Featured Projects
-Spotify Clone — A Spotify-inspired responsive interface built with HTML and CSS.
+Spotify Clone — A Spotify-inspired music player responsive interface built with HTML and CSS.
 Credit Card Fraud Analysis — An end-to-end fraud analysis project using Python, SQL, and Power BI to identify transaction patterns and risk indicators.
 Personal Portfolio Website — This site, built with HTML, CSS, and JavaScript.
 
 📜 Certifications
-Microsoft Azure Certification
-IBM SkillsBuild – AI Fundamentals
-Deloitte Data Analytics Job Simulation (Forage)
+Microsoft Azure Certification,
+IBM SkillsBuild – AI Fundamentals,
+Deloitte Data Analytics Job Simulation (Forage).
 
 📬 Contact
-Email: dikshapal.pal303@gmail.com
-LinkedIn: linkedin.com/in/paldiksha
-GitHub: github.com/diksha-pal04
+Email: dikshapal.pal303@gmail.com,
+LinkedIn:https://www.linkedin.com/in/paldiksha/,
+GitHub: https://github.com/diksha-pal04,
 
 © 2026 Diksha Pal
